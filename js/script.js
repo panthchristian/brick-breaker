@@ -142,7 +142,7 @@ function checkForCollisions() {
   ) {
     changeDirection();
   }
-  //nikal bsdk kal anaa
+  // suppp nigga
   if (ballCurrentPosition[1] <= 0) {
     clearInterval(timerId);
     document.removeEventListener("keydown", moveUser);
